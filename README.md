@@ -75,14 +75,6 @@ Principais conceitos aplicados:
 
 ---
 
-## GitHub Stats
-
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoPSNeri&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPSNeri&layout=compact)
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Neri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-neri-96b3732a5/)
