@@ -1,8 +1,9 @@
 # Olá, eu sou Eduardo Neri 👋
 
-💻 Desenvolvimento de Software | Back-End | Front-End | Full Stack  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre de 4  
-🛠️ Experiência profissional em Suporte e Infraestrutura de TI  
+💻 Desenvolvedor Back-End Python em formação
+🐍 Python | FastAPI | Flask | APIs REST | SQL
+🎓 Análise e Desenvolvimento de Sistemas
+🛠️ Experiência profissional em Suporte e Infraestrutura de TI
 📍 Patos de Minas - MG, Brasil  
 
 ---
@@ -35,48 +36,73 @@ Busco evoluir profissionalmente em Desenvolvimento de Software, atuando em Back-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
 ## Projetos em destaque
 
 ### 🚗 FleetFlow
+API REST para gerenciamento de frotas desenvolvida com Python, FastAPI e SQLite.
 
-API REST para gerenciamento de frotas desenvolvida com **Python, FastAPI, SQLite e arquitetura em camadas**.
-
-Principais recursos:
-
-- Cadastro e gerenciamento de veículos
-- Cadastro e controle de motoristas
-- Registro e histórico de abastecimentos
-- Cálculo de consumo médio e custo por quilômetro
-- Diário de bordo com controle de saída e chegada
+- Gestão de veículos e motoristas
+- Abastecimentos e cálculo de consumo
 - Manutenções preventivas e corretivas
-- Alertas de manutenção por quilometragem
-- Controle e histórico de troca de óleo
-- Alertas de próxima troca de óleo
-- Dashboard com indicadores financeiros e operacionais
-- Ranking de custos por veículo
-- Atualização automática de quilometragem
-- Regras de negócio e validações
-- API REST com FastAPI
-- Arquitetura Router → Service → Repository → SQLite
+- Troca de óleo e alertas por quilometragem
+- Dashboard com custos e indicadores
+- Arquitetura em camadas
 
-🔗 [Ver projeto](https://github.com/EduardoPSNeri/fleetflow)
+🔗 Ver projeto: https://github.com/EduardoPSNeri/fleetflow
+
+---
+
+### 🔌 API Connect
+API REST de usuários desenvolvida com Python e Flask.
+
+- CRUD completo
+- PUT e PATCH
+- Validação de dados
+- Tratamento de erros HTTP
+- Arquitetura em camadas
+- Testes automatizados com Pytest
+
+🔗 Ver projeto: https://github.com/EduardoPSNeri/API-connect
+
 ---
 
 ### 📦 Sistema de Controle de Estoque
-
-Aplicação em Python para gerenciamento de produtos e estoque, desenvolvida com foco em organização de código e aplicação de conceitos de desenvolvimento.
-
-Principais conceitos aplicados:
+Aplicação CLI em Python para gerenciamento de estoque.
 
 - Programação Orientada a Objetos
-- Persistência de dados com JSON
-- Validação de dados
-- Separação de responsabilidades
-- Modularização
-- Testes automatizados com Pytest
+- Persistência em JSON
+- Regras de negócio
+- Relatórios
+- Testes automatizados
 
-🔗 [Ver projeto](https://github.com/EduardoPSNeri/sistema-estoque-python)
+🔗 Ver projeto: https://github.com/EduardoPSNeri/sistema-estoque-python
+
+---
+
+### 📚 Sistema de Biblioteca
+Projeto de banco de dados relacional desenvolvido com MySQL.
+
+- Modelagem relacional
+- Chaves estrangeiras
+- Normalização
+- JOINs
+- Views
+- Consultas e relatórios SQL
+
+🔗 Ver projeto: https://github.com/EduardoPSNeri/sistema-biblioteca-sql
+
+---
+
+### 🌱 ONG Esperança Viva
+Projeto front-end desenvolvido com HTML, CSS e JavaScript.
+
+- Layout responsivo
+- Manipulação do DOM
+- LocalStorage
+- Validação de formulários
+- Acessibilidade
+
+🔗 Ver projeto: https://github.com/EduardoPSNeri/esperanca-viva-web
 
 ---
 
