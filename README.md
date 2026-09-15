@@ -40,22 +40,27 @@ Busco evoluir profissionalmente em Desenvolvimento de Software, atuando em Back-
 
 ### 🚗 FleetFlow
 
-Sistema de gerenciamento de frotas desenvolvido com **Python, FastAPI, SQLite e arquitetura em camadas**.
+API REST para gerenciamento de frotas desenvolvida com **Python, FastAPI, SQLite e arquitetura em camadas**.
 
 Principais recursos:
 
 - Cadastro e gerenciamento de veículos
-- Cadastro de motoristas
-- Controle de abastecimentos
-- Diário de bordo
-- Controle de manutenções
-- Atualização de quilometragem
+- Cadastro e controle de motoristas
+- Registro e histórico de abastecimentos
+- Cálculo de consumo médio e custo por quilômetro
+- Diário de bordo com controle de saída e chegada
+- Manutenções preventivas e corretivas
+- Alertas de manutenção por quilometragem
+- Controle e histórico de troca de óleo
+- Alertas de próxima troca de óleo
+- Dashboard com indicadores financeiros e operacionais
+- Ranking de custos por veículo
+- Atualização automática de quilometragem
 - Regras de negócio e validações
 - API REST com FastAPI
-- Arquitetura Router → Service → Repository
+- Arquitetura Router → Service → Repository → SQLite
 
 🔗 [Ver projeto](https://github.com/EduardoPSNeri/fleetflow)
-
 ---
 
 ### 📦 Sistema de Controle de Estoque
